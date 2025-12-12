@@ -1,4 +1,3 @@
-```markdown
 # Next Steps & Best Practices
 
 [← Back](creating-your-first-repo.md) | [Home](README.md)
